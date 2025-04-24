@@ -9,4 +9,4 @@ This HTML/CSS/JS tool allows you to analyze how frequently a target keyword appe
 
 ---
 
-Built by [Ngerank](https://ngerank.id) — Strategic websites & SEO solutions that convert and rank.
+Built by [Ngerank](https://ngerank.id/) — Strategic websites & SEO solutions that convert and rank.
