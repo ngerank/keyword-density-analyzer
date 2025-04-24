@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Keyword Density Analyzer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Keyword Density Analyzer</h1>
+    <label for="text">Paste Your Content:</label>
+    <textarea id="text" placeholder="Paste article content here..."></textarea>
+
+    <label for="keyword">Target Keyword:</label>
+    <input type="text" id="keyword" placeholder="e.g. jasa website" />
+
+    <button onclick="analyze()">Analyze</button>
+
+    <div id="result" class="result-box"></div>
+  </div>
+
+  <footer>
+    <p>Built by <a href="https://ngerank.id" target="_blank">Ngerank</a> — SEO & Website Solutions.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
